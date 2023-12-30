@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://www.wtravelmagazine.com/wp-content/uploads/2018/02/Background-Image-Signup-Page.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: black;
+    height:100%;
+}
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    width:750px;
+    background-color: rgb(164, 206, 206);
+}
+.error-message {
+    color:red;
+    font-size: 80%;
+    margin-top: 5px;
+}
